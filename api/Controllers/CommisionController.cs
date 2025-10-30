@@ -43,7 +43,6 @@ namespace AvalphaTechnologies.CommissionCalculator.Controllers
         }
     }
 
-    // Simple model classes in same file for clarity
     public class CommissionRequest
     {
         public int LocalSalesCount { get; set; }
